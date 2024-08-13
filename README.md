@@ -47,4 +47,5 @@ A fun and engaging competition among the team members' robots.
 
 Conclusion:
 The SumoBot Showdown project will provide a hands-on learning experience in robotics and engineering while fostering teamwork and creativity. The autonomous sumo robots will battle it out in the ring, demonstrating the successful implementation of cutting-edge technologies and strategies. The project will not only build technical skills but also encourage participants to think critically and innovatively, setting the stage for future robotic endeavors.
+
 ![sumo robot](https://github.com/user-attachments/assets/cda73284-b6de-4efc-a15f-5e7a7f08e4a6)
