@@ -1,4 +1,3 @@
-
 Project Overview:
 The SumoBot Showdown project aims to design, build, and program autonomous sumo robots capable of competing in a mini-sumo wrestling competition. The objective of the competition is to create a robot that can push or force its opponent outside a ring while staying inside the boundaries itself. This exciting and educational project will involve various engineering disciplines, including mechanical design, electronics, and programming.
 
@@ -49,3 +48,4 @@ Conclusion:
 The SumoBot Showdown project will provide a hands-on learning experience in robotics and engineering while fostering teamwork and creativity. The autonomous sumo robots will battle it out in the ring, demonstrating the successful implementation of cutting-edge technologies and strategies. The project will not only build technical skills but also encourage participants to think critically and innovatively, setting the stage for future robotic endeavors.
 
 ![sumo robot](https://github.com/user-attachments/assets/cda73284-b6de-4efc-a15f-5e7a7f08e4a6)
+![internal componants](https://github.com/user-attachments/assets/c4b02510-48fa-45b3-ad55-23f4a02f1628)
