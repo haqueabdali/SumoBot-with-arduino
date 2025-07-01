@@ -1,0 +1,12 @@
+graph TD
+    A[Arduino Nano] --> B[Sensor Array]
+    A --> C[Motor Controller]
+    B --> D[IR Proximity Sensors]
+    B --> E[Line Sensors]
+    B --> F[Ultrasonic Sensor]
+    C --> G[Left Motor]
+    C --> H[Right Motor]
+    A --> I[Strategy Algorithm]
+    I --> J[Attack Mode]
+    I --> K[Defense Mode]
+    I --> L[Edge Recovery]
